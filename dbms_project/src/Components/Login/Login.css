@@ -1,0 +1,11 @@
+.container {
+    width: 400px;
+    background-color: grey;
+    text-align: center;
+    display: inline-block;
+    margin: 7px;
+}
+
+.wrapper {
+    text-align: center;
+}

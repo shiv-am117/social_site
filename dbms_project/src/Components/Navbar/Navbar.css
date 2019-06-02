@@ -1,0 +1,30 @@
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.nav-main {
+    background-color: grey;
+    height: 30px;
+    margin: 20px;
+}
+
+.nav-content {
+    text-align: right;
+}
+
+.nav-text {
+    color: rgb(241, 236, 236);
+}
